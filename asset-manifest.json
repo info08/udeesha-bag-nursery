@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/udeesha-bag-nursery/static/css/main.149830c7.css",
-    "main.js": "/udeesha-bag-nursery/static/js/main.1b0d8906.js",
+    "main.js": "/udeesha-bag-nursery/static/js/main.3bceb0a8.js",
     "static/js/787.c12c04e8.chunk.js": "/udeesha-bag-nursery/static/js/787.c12c04e8.chunk.js",
     "static/media/logoU.jpg": "/udeesha-bag-nursery/static/media/logoU.c89fcfa3bf9ea5c20601.jpg",
     "static/media/loadingImg.gif": "/udeesha-bag-nursery/static/media/loadingImg.d3fbaf2b81fd92c49692.gif",
     "index.html": "/udeesha-bag-nursery/index.html",
     "main.149830c7.css.map": "/udeesha-bag-nursery/static/css/main.149830c7.css.map",
-    "main.1b0d8906.js.map": "/udeesha-bag-nursery/static/js/main.1b0d8906.js.map",
+    "main.3bceb0a8.js.map": "/udeesha-bag-nursery/static/js/main.3bceb0a8.js.map",
     "787.c12c04e8.chunk.js.map": "/udeesha-bag-nursery/static/js/787.c12c04e8.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.149830c7.css",
-    "static/js/main.1b0d8906.js"
+    "static/js/main.3bceb0a8.js"
   ]
 }
