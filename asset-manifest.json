@@ -1,18 +1,20 @@
 {
   "files": {
-    "main.css": "/udeesha-bag-nursery/static/css/main.a5bc48e6.css",
-    "main.js": "/udeesha-bag-nursery/static/js/main.11cd5542.js",
+    "main.css": "/udeesha-bag-nursery/static/css/main.8314b7fe.css",
+    "main.js": "/udeesha-bag-nursery/static/js/main.7c92405c.js",
     "static/js/787.c12c04e8.chunk.js": "/udeesha-bag-nursery/static/js/787.c12c04e8.chunk.js",
     "static/media/bgImage.jpg": "/udeesha-bag-nursery/static/media/bgImage.a9ac764e5feb46fbb2dc.jpg",
-    "static/media/logoU.jpg": "/udeesha-bag-nursery/static/media/logoU.c89fcfa3bf9ea5c20601.jpg",
+    "static/media/lagda.jpg": "/udeesha-bag-nursery/static/media/lagda.1e6e52d792131b37818a.jpg",
+    "static/media/chausa.jpg": "/udeesha-bag-nursery/static/media/chausa.da693baed30e7464d0a7.jpg",
+    "static/media/dashari.jpg": "/udeesha-bag-nursery/static/media/dashari.a942f08adc74d4be3dca.jpg",
     "static/media/loadingImg.gif": "/udeesha-bag-nursery/static/media/loadingImg.d3fbaf2b81fd92c49692.gif",
     "index.html": "/udeesha-bag-nursery/index.html",
-    "main.a5bc48e6.css.map": "/udeesha-bag-nursery/static/css/main.a5bc48e6.css.map",
-    "main.11cd5542.js.map": "/udeesha-bag-nursery/static/js/main.11cd5542.js.map",
+    "main.8314b7fe.css.map": "/udeesha-bag-nursery/static/css/main.8314b7fe.css.map",
+    "main.7c92405c.js.map": "/udeesha-bag-nursery/static/js/main.7c92405c.js.map",
     "787.c12c04e8.chunk.js.map": "/udeesha-bag-nursery/static/js/787.c12c04e8.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.a5bc48e6.css",
-    "static/js/main.11cd5542.js"
+    "static/css/main.8314b7fe.css",
+    "static/js/main.7c92405c.js"
   ]
 }
